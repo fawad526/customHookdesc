@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customHookdesc/static/css/main.32299ac5.css",
+    "main.js": "/customHookdesc/static/js/main.f96514b4.js",
+    "index.html": "/customHookdesc/index.html",
+    "main.32299ac5.css.map": "/customHookdesc/static/css/main.32299ac5.css.map",
+    "main.f96514b4.js.map": "/customHookdesc/static/js/main.f96514b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32299ac5.css",
+    "static/js/main.f96514b4.js"
+  ]
+}
